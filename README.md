@@ -2,7 +2,7 @@
 
 <img width="1011" alt="extract-wisdom-logo-miessler-2023" src="https://github.com/danielmiessler/ExtractWisdom/assets/50654/07a4a0f8-7a1e-4abd-a6d3-9e55a6df18c6">
 
-An AI prompt project that uses AI to extract wisdom from all sorts of text, from podcast transcripts, conversations, talks, lectures, papers, articles, blog posts, essays, presentations, or whatever you can get into text form.
+**ExtractWisdom** is an AI prompt project that uses AI to extract wisdom from all sorts of text, from podcast transcripts, conversations, talks, lectures, papers, articles, blog posts, essays, presentations, or whatever you can get into text form.
 
 ## The problem
 
